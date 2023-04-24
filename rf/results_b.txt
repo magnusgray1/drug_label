@@ -1,0 +1,1 @@
+{'PLR Training Accuracy Score': 93.72500000000001, 'PLR Testing Accuracy Score': 92.18499999999999, 'Non-PLR Testing Accuracy Score': 87.55, 'UK SmPC Testing Accuracy Score': 84.92}
