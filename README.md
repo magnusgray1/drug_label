@@ -16,29 +16,13 @@ Folders:
 		'binary': contains the BERT results for the binary classification task
 
 			'eval_logs': contains the testing results (.txt)
-
 			'graphs': contains plots of training loss and accuracy (.png)
-
-			'models': container for fine-tuned models
-				'albert_b': binary ALBERT model (not released)
-				'bert_b': binary BERT model (not released)
-				'distilbert_b': binary DistilBERT model (not released)
-				'roberta_b': binary RoBERTa model (not released)
-
 			'train_logs': contains the training history logs (.txt)
 
 		'multi': contains the BERT results for the multi-calss task
 
 			'eval_logs': contains the testing results (.txt)
-
 			'graphs': contains plots of training loss and accuracy (.png)
-
-			'models': container for fine-tuned models
-				'albert_m': multi-class ALBERT model (not released)
-				'bert_m': multi-class BERT model (not released)
-				'distilbert_m': multi-class DistilBERT model (not released)
-				'roberta_m': multi-class RoBERTa model (not released)
-
 			'train_logs': contains the training history logs (.txt)
 
 	'rf': contains the results for the random forest models
