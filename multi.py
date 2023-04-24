@@ -80,7 +80,7 @@ trainer = Trainer(
 
 trainer.train()
 
-trainer.save_model('./results/multi/models/bert_m/')
+#trainer.save_model('./results/multi/models/bert_m/')
 
 
 
@@ -387,7 +387,7 @@ trainer = Trainer(
 
 trainer.train()
 
-trainer.save_model('./results/multi/models/albert_m/')
+#trainer.save_model('./results/multi/models/albert_m/')
 
 
 
@@ -694,7 +694,7 @@ trainer = Trainer(
 
 trainer.train()
 
-trainer.save_model('./results/multi/models/distilbert_m/')
+#trainer.save_model('./results/multi/models/distilbert_m/')
 
 
 
@@ -1001,7 +1001,7 @@ trainer = Trainer(
 
 trainer.train()
 
-trainer.save_model('./results/multi/models/roberta_m/')
+#trainer.save_model('./results/multi/models/roberta_m/')
 
 
 
